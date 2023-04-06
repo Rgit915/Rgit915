@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rgit915
+- 👋 Hi, I’m @Rora Alem.
 - 👀 I’m interested in Web programming and Datascience.
 - 🌱 I’m currently accepted for the Web development flex program offered by LightHouse Labs in association with the OpenEd at the University of Guelph.
 - 💞️ I’m looking to collaborate on web development.
